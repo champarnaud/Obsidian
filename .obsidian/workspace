@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "b60ee7fb1c603a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "0736bbe61b67ea46",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce6400ce2564b11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5eaf337e98f388b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342dd8a488a30203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40d72f2fa3087c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4f5ca57405ef669",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f34a82b20cd4bc45",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a751b6328c71d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d075d13af82e9e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e81022b132edd3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f85df2eb162bbc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1e840c673d73f08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0736bbe61b67ea46",
+  "lastOpenFiles": [
+    "2022-08-28.md",
+    "Ma première fiche de lecture.md"
+  ]
+}
